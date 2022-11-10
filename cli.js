@@ -20,7 +20,7 @@ const simpleGit = require("simple-git");
 const git = simpleGit.default();
 
 async function changeBranch(){
-    await git.checkout("octokitNewbranch");
+    await git.checkout("testBranch");
 };
 
 changeBranch();
