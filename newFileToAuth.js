@@ -1,0 +1,1 @@
+console.log("This is the auth, status and add combined checking file.");

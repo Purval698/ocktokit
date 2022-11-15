@@ -1,0 +1,1 @@
+console.log('New file for checking the functions.');

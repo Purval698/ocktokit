@@ -1,0 +1,1 @@
+console.log("This inside the folders folder");
